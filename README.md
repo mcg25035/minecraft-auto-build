@@ -1,2 +1,2 @@
 # minecraft-auto-build
-minecraft build generator use builds library
+minecraft build generator use minecraft builders builds library
