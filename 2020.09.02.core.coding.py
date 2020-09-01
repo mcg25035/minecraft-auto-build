@@ -1,3 +1,8 @@
+import os
+import random
+programid = 0
+import logging
+inited = False
 class core:
 	global programid,inited
 	def __init__():
